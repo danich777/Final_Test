@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5930da8-1232-4827-828a-e98be629914a" name="Changes" comment="Задача 6">
+    <list default="true" id="f5930da8-1232-4827-828a-e98be629914a" name="Changes" comment="Задачи 7-12">
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Camel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Donkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Humster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Pack_animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_13_OOP/Task_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690914207849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задачи 7-12">
+      <created>1691671593453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691671593453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задачи 1-5" />
     <MESSAGE value="Задача 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 6" />
+    <MESSAGE value="Задачи 7-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи 7-12" />
   </component>
 </project>
